@@ -1,247 +1,1437 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/</loc><priority>1.0</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/adults-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/adults-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/adults-pregnancy-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-difference-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-from-dob-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-in-days-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-in-years-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/age-on-date-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/arizona-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/arizona-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/arizona-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/arizona-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/arizona-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-for-children-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-for-men-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-for-women-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-imperial-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-metric-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-with-age-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/california-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/california-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/california-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/california-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/california-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-burn-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-deficit-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-intake-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-maintenance-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-weight-loss-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/children-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/children-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/children-pregnancy-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-add-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-between-dates-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-difference-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-subtract-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/date-until-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-consolidation-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-free-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-payoff-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-reduction-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-snowball-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/florida-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/florida-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/florida-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/florida-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/florida-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/georgia-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/georgia-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/georgia-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/georgia-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/georgia-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/illinois-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/illinois-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/illinois-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/illinois-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/illinois-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-compound-interest-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-growth-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-portfolio-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-return-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-roi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-amortization-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-interest-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-payment-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-payoff-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-refinance-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/massachusetts-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/massachusetts-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/massachusetts-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/massachusetts-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/massachusetts-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/men-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/men-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/men-pregnancy-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/michigan-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/michigan-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/michigan-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/michigan-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/michigan-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-affordability-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-amortization-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-interest-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-payment-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-refinance-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-jersey-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-jersey-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-jersey-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-jersey-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-jersey-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-york-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-york-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-york-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-york-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/new-york-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/north-carolina-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/north-carolina-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/north-carolina-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/north-carolina-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/north-carolina-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ohio-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ohio-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ohio-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ohio-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ohio-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pennsylvania-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pennsylvania-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pennsylvania-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pennsylvania-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pennsylvania-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-change-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-decrease-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-discount-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-increase-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/percentage-of-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-conception-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-due-date-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-ovulation-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-trimester-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-week-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-401k-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-age-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-income-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-planning-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-savings-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-after-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-comparison-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-increase-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-negotiation-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-to-hourly-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-compound-interest-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-goal-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-growth-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-interest-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings-plan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/seniors-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/seniors-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/seniors-pregnancy-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-bracket-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-federal-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-income-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-refund-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-withholding-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/teens-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/teens-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/teens-pregnancy-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/texas-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/texas-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/texas-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/texas-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/texas-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-between-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-calculator-2025.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-calculator-2026.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-calculator-2027.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-calculator-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-difference-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-duration-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-elapsed-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/time-zone-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/virginia-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/virginia-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/virginia-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/virginia-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/virginia-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/washington-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/washington-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/washington-loan-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/washington-mortgage-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/washington-tax-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/women-bmi-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/women-calorie-calculator.html</loc><priority>0.8</priority></url>
-<url><loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/women-pregnancy-calculator.html</loc><priority>0.8</priority></url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/browse.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/search.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/401k-2025.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/401k-2026.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/401k-2027.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/401k.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/amortization.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/annual-salary.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/apr.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/apy.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/auto-financing.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/auto-loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/auto-refinance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-chart.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-for-children.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-for-men.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-for-women.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-imperial.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi-metric.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmi.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/bmr.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/body-fat.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/break-even.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/business-loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-burn.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-deficit.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-intake.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-maintenance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-surplus.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie-tracker.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/calorie.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/cap-rate.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/capital-gains-tax.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/car-insurance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/car-lease.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/car-payment.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/carbs.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/cash-out-refinance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/closing-costs.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/college-cost.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/commission.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/compound-interest.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/conception.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/credit-card-payoff.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-consolidation.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt-payoff.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/debt.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/disability-insurance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/discount.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/down-payment.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/due-date.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/equipment-financing.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/escrow.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/fat-intake.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/fertility.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/financial-aid.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/flip-calculator.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/gpa.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/grade.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/health-insurance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/heloc.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-affordability-chicago.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-affordability-houston.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-affordability-los-angeles.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-affordability-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-affordability-phoenix.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-affordability.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-equity.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-insurance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/home-loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/hourly-wage.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ideal-weight.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/income-tax.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-compound.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-dividend.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-growth.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-portfolio.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-property.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-return.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment-risk.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/investment.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/lease.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/life-insurance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-2025.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-2026.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-2027.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-amortization.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-california.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-comparison.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-consolidation.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-florida.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-georgia.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-illinois.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-michigan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-north-carolina.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-ohio.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-payment.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-payoff.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-pennsylvania.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-refinance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan-texas.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/macro.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/margin.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/markup.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-2025.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-2026.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-2027.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-affordability.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-amortization.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-california.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-chicago.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-comparison.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-florida.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-georgia.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-houston.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-illinois.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-los-angeles.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-michigan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-north-carolina.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-ohio.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-payment.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-pennsylvania.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-phoenix.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-prequalification.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-refinance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage-texas.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/mortgage.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/net-pay.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/ovulation.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/paycheck.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pension.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/personal-loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pmi.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-conception.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-due-date.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-ovulation.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-trimester.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-week-by-week.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy-weight-gain.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/pregnancy.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/profit-margin.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/property-tax.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/property-value.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/protein.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/refinance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rent-vs-buy-chicago.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rent-vs-buy-houston.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rent-vs-buy-los-angeles.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rent-vs-buy-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rent-vs-buy-phoenix.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rent-vs-buy.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/rental-income.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-2025.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-2026.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-2027.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-401k.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-california.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-florida.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-georgia.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-illinois.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-ira.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-michigan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-north-carolina.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-ohio.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-pennsylvania.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-pension.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-planning.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-savings.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-texas.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement-withdrawal.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/retirement.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/revenue.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/reverse-mortgage.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/roi.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/roth-ira.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-2025.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-2026.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-2027.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-after-tax.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-annual.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-biweekly.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-california.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-chicago.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-comparison.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-florida.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-georgia.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-hourly.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-houston.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-illinois.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-los-angeles.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-michigan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-monthly.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-north-carolina.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-ohio.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-pennsylvania.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-phoenix.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary-texas.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/salary.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/sales-tax.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/savings.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/sba-loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/scholarship.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/simple-interest.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/student-budget.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/student-loan-refinance.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/student-loan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/take-home-pay.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-2025.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-2026.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-2027.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-bracket.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-california.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-credit.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-deduction.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-estimator.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-florida.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-georgia.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-illinois.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-michigan.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-new-york.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-north-carolina.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-ohio.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-pennsylvania.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-refund.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-texas.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax-withholding.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tax.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tdee.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/term-life.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tip.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/tuition.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/weight-loss.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://abdullahamor26.github.io/calcsuite-pro/calculators/whole-life.html</loc>
+    <lastmod>2025-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
