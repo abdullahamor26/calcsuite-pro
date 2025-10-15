@@ -1,0 +1,42 @@
+<svg width="240" height="60" viewBox="0 0 240 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#635BFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#00D4FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0A2540;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#635BFF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Modern calculator icon with shadow -->
+  <g filter="url(#shadow)">
+    <rect x="8" y="12" width="38" height="42" rx="6" fill="url(#grad1)"/>
+    <rect x="12" y="16" width="30" height="12" rx="3" fill="white" opacity="0.95"/>
+    <text x="27" y="26" font-family="Inter, monospace" font-size="10" font-weight="700" fill="#635BFF" text-anchor="middle">123</text>
+    
+    <!-- Calculator buttons -->
+    <rect x="13" y="32" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="21" y="32" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="29" y="32" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="37" y="32" width="6" height="6" rx="1.5" fill="#00D4FF" opacity="0.9"/>
+    
+    <rect x="13" y="40" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="21" y="40" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="29" y="40" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="37" y="40" width="6" height="6" rx="1.5" fill="#00D4FF" opacity="0.9"/>
+    
+    <rect x="13" y="48" width="14" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="29" y="48" width="6" height="6" rx="1.5" fill="white" opacity="0.9"/>
+    <rect x="37" y="48" width="6" height="6" rx="1.5" fill="#FFD700" opacity="0.95"/>
+  </g>
+  
+  <!-- Brand text -->
+  <text x="58" y="32" font-family="Inter, -apple-system, sans-serif" font-size="26" font-weight="800" fill="url(#grad2)" letter-spacing="-0.5">CalcSuite</text>
+  <text x="58" y="46" font-family="Inter, -apple-system, sans-serif" font-size="11" font-weight="600" fill="#666" letter-spacing="1">PROFESSIONAL TOOLS</text>
+  
+  <filter id="shadow">
+    <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.2"/>
+  </filter>
+</svg>

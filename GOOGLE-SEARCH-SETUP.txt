@@ -1,0 +1,67 @@
+GOOGLE CUSTOM SEARCH SETUP INSTRUCTIONS
+========================================
+
+Your website now has Google Custom Search integration!
+
+STEP 1: Create Google Custom Search Engine
+-------------------------------------------
+1. Go to: https://programmablesearchengine.google.com/
+2. Click "Add" or "Create a new search engine"
+3. In "Sites to search": Enter your site URL
+   - https://abdullahamor26.github.io/calcsuite-pro/*
+4. Name: "CalcSuite Pro Search"
+5. Click "Create"
+
+STEP 2: Get Your Search Engine ID
+----------------------------------
+1. After creating, click "Customize"
+2. Copy your "Search engine ID" (looks like: 0123456789abcdefg:hijklmnop)
+3. Save this ID
+
+STEP 3: Add ID to Your Website
+-------------------------------
+1. Open: search.html
+2. Find line: <script async src="https://cse.google.com/cse.js?cx=YOUR_SEARCH_ENGINE_ID"></script>
+3. Replace YOUR_SEARCH_ENGINE_ID with your actual ID
+4. Save and push to GitHub
+
+STEP 4: Configure Search Settings (Optional)
+---------------------------------------------
+In Google Custom Search settings:
+- Enable "Image search" 
+- Enable "Search the entire web" (then restrict to your site)
+- Customize look and feel to match your site colors
+- Add synonyms: calculator, calc, tool, compute
+
+STEP 5: Submit Sitemap to Google
+---------------------------------
+1. Go to: https://search.google.com/search-console
+2. Add property: https://abdullahamor26.github.io/calcsuite-pro
+3. Verify ownership (use HTML tag method)
+4. Submit sitemap: https://abdullahamor26.github.io/calcsuite-pro/sitemap.xml
+5. Wait 1-2 weeks for Google to index all 73,364 pages
+
+BENEFITS:
+---------
+✅ Users can search with Google's power
+✅ Shows related calculator suggestions
+✅ Finds calculators by location (California, Texas, etc.)
+✅ Finds calculators by year (2025, 2026, etc.)
+✅ Finds calculators by demographic (men, women, seniors, etc.)
+✅ Google's autocomplete suggestions
+✅ Spell correction
+✅ Related searches
+
+CURRENT SEARCH FEATURES:
+------------------------
+✅ Local search (searches your 73,364 calculators)
+✅ Instant filtering
+✅ Load more functionality
+✅ Google Custom Search page (search.html)
+
+After setup, users can search using:
+- browse.html (local instant search)
+- search.html (Google-powered search)
+
+Your search engine ID goes here:
+search.html line 28: cx=YOUR_SEARCH_ENGINE_ID

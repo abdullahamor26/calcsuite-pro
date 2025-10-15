@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search Calculators | CalcSuite Pro</title>
+<link rel="stylesheet" href="styles-premium.css">
+<style>
+.search-container{max-width:1200px;margin:3rem auto;padding:2rem;}
+.search-box{width:100%;padding:1.25rem;font-size:1.2rem;border:2px solid #e5e7eb;border-radius:8px;background:white;}
+.search-box:focus{outline:none;border-color:#635BFF;}
+.suggestions{background:white;border:2px solid #635BFF;border-top:none;border-radius:0 0 8px 8px;max-height:400px;overflow-y:auto;display:none;}
+.suggestion-item{padding:1rem;cursor:pointer;border-bottom:1px solid #e5e7eb;display:flex;justify-content:space-between;align-items:center;}
+.suggestion-item:hover{background:#f8f9fa;}
+.suggestion-text{color:#0A2540;font-weight:500;}
+.suggestion-volume{color:#666;font-size:0.9rem;}
+.two-column{display:grid;grid-template-columns:2fr 1fr;gap:2rem;margin-top:2rem;}
+.results{background:white;padding:2rem;border-radius:8px;}
+.sidebar{background:white;padding:2rem;border-radius:8px;}
+.result-item{padding:1.5rem;background:#f8f9fa;border-radius:8px;margin:1rem 0;}
+.result-item h3{color:#635BFF;margin-bottom:0.5rem;}
+.result-item a{color:#635BFF;text-decoration:none;font-weight:600;font-size:1.1rem;}
+.result-item a:hover{text-decoration:underline;}
+.result-item p{color:#666;margin-top:0.5rem;line-height:1.6;}
+.trending{margin-bottom:2rem;}
+.trending h3{color:#0A2540;margin-bottom:1rem;}
+.trend-item{padding:0.75rem;background:#f8f9fa;border-radius:6px;margin:0.5rem 0;cursor:pointer;}
+.trend-item:hover{background:#635BFF;color:white;}
+.related{margin-top:2rem;}
+.related h3{color:#0A2540;margin-bottom:1rem;}
+.related-item{display:inline-block;padding:0.5rem 1rem;background:#f8f9fa;border-radius:20px;margin:0.25rem;cursor:pointer;font-size:0.9rem;}
+.related-item:hover{background:#635BFF;color:white;}
+@media(max-width:768px){.two-column{grid-template-columns:1fr;}}
+</style>
+</head>
+<body>
+<nav class="nav">
+<div class="nav-container">
+<a href="index.html" class="logo" style="display:flex;align-items:center;">
+<img src="logo.svg" alt="CalcSuite Pro" style="height:40px;">
+</a>
+</div>
+</nav>
+
+<section class="hero">
+<div class="hero-content">
+<h1>Search Calculators</h1>
+<p class="hero-subtitle">Find Exactly What You Need</p>
+</div>
+</section>
+
+<div class="search-container">
+<div style="position:relative;">
+<input type="text" id="searchBox" class="search-box" placeholder="Search 73,364 calculators (e.g., California mortgage calculator 2025)" autocomplete="off">
+<div id="suggestions" class="suggestions"></div>
+</div>
+
+<div class="two-column">
+<div class="results" id="results"></div>
+<div class="sidebar">
+<div class="trending">
+<h3>🔥 Trending Calculator Searches</h3>
+<div id="trending"></div>
+</div>
+<div class="related">
+<h3>💡 Related Searches</h3>
+<div id="related"></div>
+</div>
+</div>
+</div>
+</div>
+
+<footer>
+<div class="container">
+<p style="text-align:center;padding:2rem;">© 2025 CalcSuite Pro</p>
+</div>
+</footer>
+
+<script>
+const trendingData = [
+  {term: 'BMI calculator'},
+  {term: 'mortgage calculator 2025'},
+  {term: 'loan calculator'},
+  {term: 'calorie calculator'},
+  {term: 'tax calculator'},
+  {term: 'retirement calculator'},
+  {term: 'pregnancy calculator'},
+  {term: 'salary calculator'},
+  {term: 'investment calculator'},
+  {term: 'debt calculator'}
+];
+
+const relatedTerms = [
+  'mortgage calculator', 'loan calculator', 'BMI calculator', 'calorie calculator',
+  'tax calculator', 'retirement calculator', 'investment calculator', 'salary calculator',
+  'debt calculator', 'savings calculator', 'pregnancy calculator', 'fitness calculator',
+  'percentage calculator', 'age calculator', 'date calculator', 'time calculator',
+  'california mortgage', 'new york tax', '2025 calculator', 'business calculator'
+];
+
+let allCalcs = [];
+
+fetch('sitemap.xml')
+  .then(r => r.text())
+  .then(xml => {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(xml, 'text/xml');
+    const urls = doc.querySelectorAll('url loc');
+    urls.forEach(url => {
+      const u = url.textContent;
+      if (u.includes('/calculators/')) {
+        allCalcs.push(u.split('/calculators/')[1].replace('.html', ''));
+      }
+    });
+  });
+
+function displayTrending() {
+  document.getElementById('trending').innerHTML = trendingData.map(t => 
+    `<div class="trend-item" onclick="search('${t.term}')">${t.term}</div>`
+  ).join('');
+}
+
+function displayRelated(query) {
+  const related = query ? 
+    relatedTerms.filter(t => t.toLowerCase().includes(query.toLowerCase()) || query.toLowerCase().includes(t.toLowerCase())).slice(0, 15) :
+    relatedTerms.slice(0, 15);
+  document.getElementById('related').innerHTML = related.map(t => 
+    `<span class="related-item" onclick="search('${t}')">${t}</span>`
+  ).join('');
+}
+
+function search(query) {
+  document.getElementById('searchBox').value = query;
+  performSearch(query);
+}
+
+function performSearch(query) {
+  const q = query.toLowerCase();
+  const matches = allCalcs.filter(c => c.includes(q)).slice(0, 50);
+  
+  if (matches.length === 0) {
+    document.getElementById('results').innerHTML = `
+      <div style="text-align:center;padding:3rem;color:#666;">
+        <h3>No exact matches found</h3>
+        <p>Try searching for: mortgage, loan, BMI, calorie, tax, retirement, investment, salary</p>
+      </div>`;
+  } else {
+    document.getElementById('results').innerHTML = `
+      <h3 style="color:#0A2540;margin-bottom:1.5rem;">Found ${matches.length.toLocaleString()} calculators</h3>
+      ${matches.map(file => {
+        const name = file.replace(/-/g, ' ').split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        return `<div class="result-item">
+          <a href="calculators/${file}.html">${name}</a>
+          <p>Free online calculator with instant results</p>
+        </div>`;
+      }).join('')}`;
+  }
+  
+  displayRelated(query);
+  document.getElementById('suggestions').style.display = 'none';
+}
+
+const searchBox = document.getElementById('searchBox');
+
+searchBox.addEventListener('input', function(e) {
+  const q = e.target.value.toLowerCase();
+  if (q.length < 2) {
+    document.getElementById('suggestions').style.display = 'none';
+    return;
+  }
+  
+  const matches = allCalcs.filter(c => c.includes(q)).slice(0, 10);
+  if (matches.length > 0) {
+    document.getElementById('suggestions').innerHTML = matches.map(file => {
+      const name = file.replace(/-/g, ' ').split(' ').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      return `<div class="suggestion-item" onclick="window.location.href='calculators/${file}.html'">
+        <span class="suggestion-text">${name}</span>
+      </div>`;
+    }).join('');
+    document.getElementById('suggestions').style.display = 'block';
+  } else {
+    document.getElementById('suggestions').style.display = 'none';
+  }
+});
+
+searchBox.addEventListener('keypress', function(e) {
+  if (e.key === 'Enter') {
+    performSearch(this.value);
+  }
+});
+
+document.addEventListener('click', function(e) {
+  if (!searchBox.contains(e.target)) {
+    document.getElementById('suggestions').style.display = 'none';
+  }
+});
+
+displayTrending();
+displayRelated('');
+
+const urlParams = new URLSearchParams(window.location.search);
+const query = urlParams.get('q');
+if (query) {
+  document.getElementById('searchBox').value = query;
+  performSearch(query);
+}
+</script>
+</body>
+</html>
